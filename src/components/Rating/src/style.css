@@ -1,0 +1,21 @@
+.rating-container {
+    margin-top: 1%;
+}
+
+.collapse-container {
+    margin-left: 2%;
+}
+
+.card-collapse {
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+.form-rating {
+    /* margin: 1% 2% 0 6%; */
+    margin: 1% 1% 0 1%;
+}
+
+.form-rating .ant-form-item {
+    margin-bottom: 0;
+}
